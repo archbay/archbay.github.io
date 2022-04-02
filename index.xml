@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computing Architecture Bay</title>
+    <title>Computing Architecture Blog</title>
     <link>https://archbay.github.io/</link>
-    <description>Recent content on Computing Architecture Bay</description>
+    <description>Recent content on Computing Architecture Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
