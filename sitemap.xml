@@ -1,17 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://archbay.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://archbay.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://archbay.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://archbay.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://archbay.github.io/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://archbay.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://archbay.github.io/tags/content/_index.fr/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://archbay.github.io/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://archbay.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://archbay.github.io/tags/installation/_index.zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://archbay.github.io/tags/configuration/_index.zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
